@@ -380,10 +380,10 @@ header section {
     display: inline-block;
 }
 footer {
-    border-top: 1px solid #222;
+    border-top: 1px solid #C3C3C3;
     padding: 50px;
     color: #fefefe;
-    background-color: #333;
+    background-color: #C3C3C3;
     margin-top: 100px;
 }
 footer a,
@@ -576,7 +576,7 @@ footer .twitter:before {
 /* ***************** Content pages ***************** */
 /* ************************************************* */
 .head {
-    background-color: #333;
+    background-color: #E4E4E4;
 }
 .head .row {
     max-width: 1400px;
