@@ -382,7 +382,7 @@ header section {
 footer {
     border-top: 1px solid #C3C3C3;
     padding: 50px;
-    color: #fefefe;
+    color: #2F2F2F;
     background-color: #C3C3C3;
     margin-top: 100px;
 }
@@ -582,7 +582,7 @@ footer .twitter:before {
     max-width: 1400px;
     margin-top: 0;
     background-color: #E4E4E4;
-    color: #efefef;
+    color: #2F2F2F;
     padding: 40px;
     padding-left: 140px;
     background-repeat: no-repeat;
