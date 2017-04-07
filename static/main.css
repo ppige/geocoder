@@ -240,6 +240,9 @@ a {
     display: none;
 }
 
+.wrapper .csvtogeocoder {
+  padding: 20px 40px;
+}
 
 /* ************************************************* */
 /* ********************** FORMS ******************** */
@@ -391,6 +394,9 @@ header a {
     text-decoration: none;
     color: #2F2F2F;
     font-family: 'open_sanslight';
+}
+footer .row {
+    padding: 0 40px;
 }
 header h1 a {
     background-image: url('./img/logo.jpg');
